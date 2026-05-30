@@ -31,12 +31,6 @@ We believe in **sharing knowledge, creating useful projects**, and **making codi
 
 ---
 
-## 🖼️ Gallery / Projects
-<p align=
-
-
----
-
 ## ✨ Fun Fact
 > *"Code is like humor. When you have to explain it, it’s bad."* 😆
 
