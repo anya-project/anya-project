@@ -1,24 +1,24 @@
-# Max Angkasa 🚀
+# Anya Project 🚀
 
 <!-- Animated Banner -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a371f7&height=200&section=header&text=Max%20Angkasa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descColor=c9b1ff&animation=twinkling)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a371f7&height=200&section=header&text=Anya%20Project&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descColor=c9b1ff&animation=twinkling)
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Max;Full+Stack+Developer;Building+things+that+work;Fueled+by+food+and+no+sunlight)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Anya;Full+Stack+Developer;Building+things+that+work;Fueled+by+food+and+no+sunlight)
 
 <!-- Visitor Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=maxlyz&label=Profile%20views&color=6e40c9&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/maxlyz?label=Followers&style=for-the-badge&color=a371f7&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=anya-project&label=Profile%20views&color=6e40c9&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/anya-project?label=Followers&style=for-the-badge&color=a371f7&labelColor=0d1117)
 
 ---
 
 ## 🧑‍💻 About Me
 
 ```bash
-max@angkasa:~$ neofetch --user maxlyz
+anya@project:~$ neofetch --user anya-project
 ```
 
 ```text
-       .---.         max@angkasa
+       .---.         anya@project
       /     \        -----------
       \  @ @ /       OS: Jakarta, Indonesia 🇮🇩
        '---'         Role: Full Stack Developer | Software Engineer
@@ -71,12 +71,12 @@ max@angkasa:~$ neofetch --user maxlyz
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxlyz&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=6e40c9&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlyz&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anya-project&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=6e40c9&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-project&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maxlyz&theme=midnight-purple&hide_border=true&background=0D1117&ring=a371f7&fire=ff6b35&currStreakLabel=a371f7&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=anya-project&theme=midnight-purple&hide_border=true&background=0D1117&ring=a371f7&fire=ff6b35&currStreakLabel=a371f7&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
 </div>
 
 
@@ -122,7 +122,7 @@ max@angkasa:~$ neofetch --user maxlyz
   <a href="https://discord.gg/HMMYNPEXGY">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://github.com/maxlyz">
+  <a href="https://github.com/anya-project">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -132,7 +132,7 @@ max@angkasa:~$ neofetch --user maxlyz
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxlyz&bg_color=0d1117&color=a371f7&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anya-project&bg_color=0d1117&color=a371f7&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -141,9 +141,9 @@ max@angkasa:~$ neofetch --user maxlyz
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxlyz/maxlyz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxlyz/maxlyz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maxlyz/maxlyz/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anya-project/anya-project/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anya-project/anya-project/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anya-project/anya-project/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -156,6 +156,6 @@ max@angkasa:~$ neofetch --user maxlyz
 
 *"Code by day, debug by night, eat at all times."* 🍜
 
-**Made with 💜 by Max Angkasa — somewhere in Jakarta, never going outside**
+**Made with 💜 by Anya Project — somewhere in Jakarta, never going outside**
 
 </div>
