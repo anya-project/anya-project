@@ -71,11 +71,6 @@ anya@project:~$ neofetch --user anya-project
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anya-project&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=6e40c9&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya-project&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=anya-project&theme=midnight-purple&hide_border=true&background=0D1117&ring=a371f7&fire=ff6b35&currStreakLabel=a371f7&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
 </div>
 
