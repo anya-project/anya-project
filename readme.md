@@ -1,13 +1,13 @@
 # Anya Project 🚀
 
 <!-- Animated Banner -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=200&section=header&text=Anya%20Project&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descColor=e9d5ff&animation=twinkling)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4d5c0a,50:8fae14,100:c6f21a&height=200&section=header&text=Anya%20Project&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descColor=f2ffcc&animation=twinkling)
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Anya;Full+Stack+Developer;Building+things+that+work;Fueled+by+food+and+no+sunlight)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C6F21A&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Anya;Full+Stack+Developer;Building+things+that+work;Fueled+by+food+and+no+sunlight)
 
 <!-- Visitor Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=anya-project&label=Profile%20views&color=6e40c9&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/anya-project?label=Followers&style=for-the-badge&color=a371f7&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=anya-project&label=Profile%20views&color=c6f21a&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/anya-project?label=Followers&style=for-the-badge&color=c6f21a&labelColor=0d1117)
 
 ---
 
@@ -71,7 +71,7 @@ anya@project:~$ neofetch --user anya-project
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=anya-project&theme=midnight-purple&hide_border=true&background=0D1117&ring=a371f7&fire=ff6b35&currStreakLabel=a371f7&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=anya-project&theme=midnight-purple&hide_border=true&background=0D1117&ring=c6f21a&fire=ff6b35&currStreakLabel=c6f21a&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
 </div>
 
 
@@ -105,7 +105,7 @@ anya@project:~$ neofetch --user anya-project
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anya-project&bg_color=0d1117&color=a371f7&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anya-project&bg_color=0d1117&color=c6f21a&line=9ec214&point=ffffff&area=true&area_color=9ec214&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -125,10 +125,10 @@ anya@project:~$ neofetch --user anya-project
 <div align="center">
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,50:6e40c9,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c6f21a,50:9ec214,100:0d1117&height=120&section=footer" width="100%"/>
 
 *"Code by day, debug by night, eat at all times."* 🍜
 
-**Made with 💜 by Anya Project — somewhere in Jakarta, never going outside**
+**Made with 💚 by Anya Project — somewhere in Jakarta, never going outside**
 
 </div>
