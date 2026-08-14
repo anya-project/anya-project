@@ -1,7 +1,7 @@
 # Anya Project 🚀
 
 <!-- Animated Banner -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a371f7&height=200&section=header&text=Anya%20Project&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descColor=c9b1ff&animation=twinkling)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=200&section=header&text=Anya%20Project&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descColor=e9d5ff&animation=twinkling)
 
 <!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Anya;Full+Stack+Developer;Building+things+that+work;Fueled+by+food+and+no+sunlight)
@@ -75,28 +75,6 @@ anya@project:~$ neofetch --user anya-project
 </div>
 
 
-
-## 🔥 Currently Working On
-
-<table>
-  <tr>
-    <td>🌐</td>
-    <td><b>NexPanel — Multi-Tenant SaaS Platform</b></td>
-    <td>A real-time management dashboard built with Next.js + Node.js, featuring role-based access, analytics, and live monitoring</td>
-  </tr>
-  <tr>
-    <td>🛠️</td>
-    <td><b>devflow — Open Source CLI Toolkit</b></td>
-    <td>A developer productivity toolkit for automating repetitive workflows — scaffolding, deployment hooks, and git automation in one CLI</td>
-  </tr>
-  <tr>
-    <td>🎮</td>
-    <td><b>FiveM Resource Scripts</b></td>
-    <td>A collection of custom Lua/JS resources for QBCore framework, focused on performance and low resource monitor (resmon) usage</td>
-  </tr>
-</table>
-
----
 
 ## 🧠 Currently Learning
 
